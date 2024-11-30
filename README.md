@@ -56,13 +56,13 @@ The engine is the backbone of the game, and it provides the following components
 
 ## Gameplay Screenshot
 
-![Game GIF](assets/gameplay/movement.gif)
+![Game GIF](games/game1/assets/gameplay/movement.gif)
 
 *Movement and collisions with entities.*
 
 
 
-![Game GIF](assets/gameplay/combat.gif)
+![Game GIF](games/game1/assets/gameplay/combat.gif)
 
 *Test enemy following player and collision between them.*
 
